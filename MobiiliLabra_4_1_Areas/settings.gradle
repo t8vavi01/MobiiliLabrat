@@ -1,0 +1,2 @@
+rootProject.name='MobiiliLabra_4_1_Areas'
+include ':app'

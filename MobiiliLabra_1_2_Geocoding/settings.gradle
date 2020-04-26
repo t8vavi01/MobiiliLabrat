@@ -1,0 +1,2 @@
+rootProject.name='MobiiliLabra_1_2_Geocoding'
+include ':app'

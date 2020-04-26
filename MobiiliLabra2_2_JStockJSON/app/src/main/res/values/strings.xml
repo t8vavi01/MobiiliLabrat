@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MobiiliLabra2_2_JStockJSON</string>
+
+    <string-array name="stockNames">
+        <item>Apple</item>
+        <item>Alphabet(Google)</item>
+        <item>Facebook</item>
+        <item>Nokia</item>
+        <item>Red Hat</item>
+        <item>INTEL</item>
+    </string-array>
+
+    <string-array name="StockIDs">
+        <item>AAPL</item>
+        <item>GOOGL</item>
+        <item>FB</item>
+        <item>NOK</item>
+        <item>RHT</item>
+        <item>INTC</item>
+    </string-array>
+
+</resources>
